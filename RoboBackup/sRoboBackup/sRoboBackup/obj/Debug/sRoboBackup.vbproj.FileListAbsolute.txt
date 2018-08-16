@@ -1,0 +1,15 @@
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.exe.config
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.exe
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.pdb
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.xml
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.vbprojResolveAssemblyReference.cache
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.Form1.resources
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.Resources.resources
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.vbproj.GenerateResource.Cache
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.exe
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.xml
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.pdb
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.exe.manifest
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\bin\Debug\sRoboBackup.application
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.exe.manifest
+C:\Fonts\RoboBackup\sRoboBackup\sRoboBackup\obj\Debug\sRoboBackup.application
