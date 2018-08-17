@@ -154,7 +154,7 @@ Partial Class Form1
         'NotifyIcon1
         '
         Me.NotifyIcon1.Icon = CType(resources.GetObject("NotifyIcon1.Icon"), System.Drawing.Icon)
-        Me.NotifyIcon1.Text = "NotifyIcon1"
+        Me.NotifyIcon1.Text = "Robô Syscom Backup"
         Me.NotifyIcon1.Visible = True
         '
         'Timer3
@@ -188,7 +188,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
-        Me.Text = "Backup Automático Diário  de Dados. 15/08/2018. Versão A01 BETA"
+        Me.Text = "Backup Automático Diário  de Dados. 15/08/2018. Versão A02 ALFA"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()

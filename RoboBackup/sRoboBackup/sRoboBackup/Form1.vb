@@ -248,4 +248,7 @@ Public Class Form1
         Timer2.Enabled = True
 
     End Sub
+    Private Sub NotifyIcon1_MouseDoubleClick(sender As Object, e As MouseEventArgs) Handles NotifyIcon1.MouseDoubleClick
+        Me.Show()
+    End Sub
 End Class
